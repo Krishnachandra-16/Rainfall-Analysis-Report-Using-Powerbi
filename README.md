@@ -51,7 +51,8 @@ The dashboard transforms raw rainfall data into **interactive and meaningful vis
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Screenshot 2026-05-15 144442.png) & (
+                        
 
 ---
 
