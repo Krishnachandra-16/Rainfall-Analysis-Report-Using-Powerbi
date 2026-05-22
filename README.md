@@ -48,11 +48,19 @@ The dashboard transforms raw rainfall data into **interactive and meaningful vis
 - Interactive filters (Year, Region, Month)  
 
 ---
+## 📸 Dashboard Preview
 
-## 📷 Dashboard Preview
+<div align="center">
 
-![Dashboard Screenshot](Screenshot 2026-05-15 144442.png) & (
-                        
+### 🌧️ Yearwise Rainfall Analysis
+![Dashboard 1](./822a6303-1f3f-48ec-a92b-ec31adf1c102.png)
+
+<br>
+
+### 📊 Rainfall Analysis Dashboard Overview
+![Dashboard 2](./36fbfe0e-dd06-447d-924b-bcaa862ad070.png)
+
+</div>            
 
 ---
 
