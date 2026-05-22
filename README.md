@@ -53,7 +53,7 @@ The dashboard transforms raw rainfall data into **interactive and meaningful vis
 <div align="center">
 
 ### 🌧️ Yearwise Rainfall Analysis
-![Dashboard 1](./822a6303-1f3f-48ec-a92b-ec31adf1c102.png)
+![Dashboard 1]([./822a6303-1f3f-48ec-a92b-ec31adf1c102.png](https://github.com/Krishnachandra-16/Rainfall-Analysis-Report-Using-Powerbi/blob/main/Screenshot%202026-05-15%20144442.png))
 
 <br>
 
